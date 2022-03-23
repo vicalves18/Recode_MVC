@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Quiteria\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Quiteria\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\Vic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vic\\.nuget\\packages"
     ]
   }
 }
